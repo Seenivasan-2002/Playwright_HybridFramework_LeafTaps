@@ -1,0 +1,28 @@
+{
+  "lead": {
+    "company": "Testleaf",
+    "updatedCompany": "Qeagle",
+    "updatedTitle": "SDET",
+    "source": "Employee"
+  },
+  "account": {
+    "industry": "Computer Software",
+    "ownership": "Partnership",
+    "updatedDescription": "Updated by Playwright automation"
+  },
+  "contact": {
+    "department": "QA",
+    "updatedTitle": "Test Lead",
+    "updatedDepartment": "Automation"
+  },
+  "opportunity": {
+    "stage": "Prospect",
+    "type": "New Business",
+    "amount": "50000",
+    "closeDate": "12/31/27",
+    "updatedStage": "Proposal",
+    "updatedAmount": "75000",
+    "updatedNextStep": "Schedule demo",
+    "changeNote": "Customer requested a proposal"
+  }
+}
